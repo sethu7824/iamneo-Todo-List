@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Project information -->
-<plugin>
+
    <groupId>iamneo</groupId>
    <artifactId>sonar-maven-plugin</artifactId>
    <version>1.0</version>
-</plugin>
+
     <!-- Other configuration elements go here -->
 
     <properties>
