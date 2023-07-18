@@ -7,7 +7,7 @@
     <!-- Project information -->
 
    <groupId>iamneo</groupId>
-   <artifactId>sonar-maven-plugin</artifactId>
+   <artifactId>todo app-iamneo</artifactId>
    <version>1.0</version>
 
     <!-- Other configuration elements go here -->
